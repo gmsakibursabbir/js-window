@@ -48,7 +48,7 @@ The `window.screen` is used for interaction with screen.
  
  HTML
 
-```
+```html
 <button type="button" onclick="getResolution();">Get Resolution</button>
 
 ```
@@ -71,7 +71,7 @@ JAVASCRIPT
 
 HTML
 
-```
+```html
 <button onclick="openWin()">Open "myWindow"</button>
 
 ```
@@ -112,7 +112,7 @@ Used to programmatically close the current browser window.
 
 HTML
 
-```
+```html
 <button onclick="closeWin()">Close "myWindow"</button>
 
 ```
